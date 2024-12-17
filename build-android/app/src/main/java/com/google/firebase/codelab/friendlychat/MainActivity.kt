@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
         // connect to "localhost" on the host computer. The port values are
         // defined in the firebase.json file.
         if (BuildConfig.DEBUG) {
-            2Firebase.database.useEmulator("10.0.2.2", 9000)
+            Firebase.database.useEmulator("10.0.2.2", 9000)
             Firebase.auth.useEmulator("10.0.2.2", 9099)
             Firebase.storage.useEmulator("10.0.2.2", 9199)
         }
