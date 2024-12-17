@@ -5,10 +5,16 @@ To run :
     3. build 
     4. run 
     5. Install firebase CLI: https://github.com/B4bySimba/yap.git 
-    6. Confirm installation: $ firebase --version 
+    6. Confirm installation: 
+    
+        $ firebase --version
+        
     7. run: firebase login 
     8. login in the opened browser tab using your firebase credentials 
-    9. start the emulator: $ firebase emulators:start --project=demo-friendlychat-android 
+    9. start the emulator: 
+    
+        $ firebase emulators:start --project=demo-friendlychat-android
+
     10. You should see something like: 
     
     $ firebase emulators:start --project=demo-friendlychat-android
