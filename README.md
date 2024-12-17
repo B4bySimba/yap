@@ -1,4 +1,5 @@
-To run: 
+To run : 
+0. in Android-Studio, go to open>yap>android-build
 1.clone using https://github.com/B4bySimba/yap.git 
 2. Sync gradle files 
 3. build 
