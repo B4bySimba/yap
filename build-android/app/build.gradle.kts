@@ -19,6 +19,7 @@ android {
 
     buildFeatures {
         viewBinding = true
+        buildConfig = true
     }
 
     buildTypes {
@@ -56,7 +57,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.15.0")
 
     // Google
-    implementation("com.google.android.gms:play-services-auth:21.2.0")
+//    implementation("com.google.android.gms:play-services-auth:21.2.0")
 
     // Firebase
     implementation(platform("com.google.firebase:firebase-bom:33.6.0"))
