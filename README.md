@@ -1,4 +1,5 @@
 # Yap
+## Yap is an android chatapp that let's its users chat even in groups
 ## A Rapture Group Works
 
 ## To run : 
